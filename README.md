@@ -1,4 +1,4 @@
-# HashDemo — SHA-256 vs SHA3-256 (Keccak) Comparison
+# HashDemo: SHA-256 vs SHA3-256 (Keccak) Comparison
 
 This repository contains a simple Java demonstration used for an ECE 424 (Information & Network Security) final project.  
 The goal is to compare **SHA-256** (Merkle–Damgård) with **SHA3-256** (Keccak Sponge) and illustrate why SHA-3 is not vulnerable to length-extension attacks.
