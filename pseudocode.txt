@@ -1,0 +1,16 @@
+INPUT: message
+
+FUNCTION computeHash(message, algorithm):
+    Create a MessageDigest object for the given algorithm
+    Convert message to bytes
+    Compute digest = hash(message bytes)
+    Convert digest to hex string
+    RETURN hex string
+
+MAIN:
+    sha256_result  = computeHash(message, "SHA-256")
+    sha3_result    = computeHash(message, "SHA3-256")
+
+    DISPLAY "Original Message: " + message
+    DISPLAY "SHA-256 Hash: "    + sha256_result
+    DISPLAY "SHA3-256 Hash: "   + sha3_result
