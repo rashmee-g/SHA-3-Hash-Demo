@@ -19,7 +19,7 @@ This project is part of a broader exploration into modern cryptographic design, 
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 | File | Description |
 |------|-------------|
