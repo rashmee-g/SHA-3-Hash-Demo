@@ -24,7 +24,7 @@ This project is part of a broader exploration into modern cryptographic design, 
 | File | Description |
 |------|-------------|
 | `HashDemo.java` | Main Java program that computes SHA-256 and SHA3-256 hashes |
-| `pseudocode.txt` | Pseudocode explaining the hashing logic (optional) |
+| `pseudocode.txt` | Pseudocode explaining the hashing logic |
 | `README.md` | Project documentation |
 
 ---
